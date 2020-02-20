@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cheeseburger">"همبرگر $2.15 "</string>
+    <string name="Double_Double">"دوتایی $3.60 "</string>
+    <string name="Foundation_Drinks">نوشیدنی(سایز انتخاب کنید)</string>
+    <string name="French_Fries">سیب زمینی سرخ شده $1.65</string>
+    <string name="items_ordered">تعداد سفارش ها:</string>
+    <string name="Large">بزرگ $1.75</string>
+    <string name="Medium">متوسط $1.55</string>
+    <string name="orderTotal">مبلغ نهایی</string>
+    <string name="place_an_order">انجام سفارش</string>
+    <string name="placeOrder">انجام سفارش</string>
+    <string name="Shakes">شیک @2.20</string>
+    <string name="Small">کوچک $1.45</string>
+    <string name="start_new_order">سفارش جدید</string>
+    <string name="Subtotal">جمع مبالغ</string>
+    <string name="Tax">تکس (8%)</string>
+</resources>
